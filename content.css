@@ -1,0 +1,9 @@
+.custom-blur-effect {
+    filter: blur(6px) !important;
+    transition: filter 0.2s ease;
+    pointer-events: none;
+}
+
+.custom-blur-effect:hover { 
+    filter: blur(1px) !important; 
+}
