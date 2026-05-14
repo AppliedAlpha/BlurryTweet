@@ -1,4 +1,4 @@
-# 🐦 BlurryTweet
+# <img width="32" height="auto" alt="BlurryTweet" src="./icons/twitter128.png" /> BlurryTweet
 
 <img width="50%" height="auto" alt="BlurryTweet" src="https://github.com/user-attachments/assets/bba331a3-b255-4b17-a196-1cbffc204b30" /><br />
 
